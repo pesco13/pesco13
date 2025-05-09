@@ -12,7 +12,7 @@ Keenly interested in artificial intelligence, machine learning, and Data Science
 
 <h3 align="left">📲Socials:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/pesco13">
+  <a href="https://www.linkedin.com/in/pesco13/"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"width="35"> 
   </a>
   <a href="https://x.com/paulinachem">

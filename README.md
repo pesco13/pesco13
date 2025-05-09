@@ -2,7 +2,7 @@
 
 
 <h1 align="center"><b>Hello! I'm Paulina Escobar</b> <img src="https://media.giphy.com/media/J4mdPYAmdcgWQF9Mo7/giphy.gif?cid=ecf05e47u4b2h0znaiu9ju8zxo3nncnolc42xka7h1aj561w&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35"></h1>
-  <p align="center"><em> Computational chemist, PhD Student, and passionate about science. </em></p>
+  <p align="center"><em> PhD Student with experience in Computational Chemistry and a background in Industrial Chemistry | Driving scientific innovation.</em></p>
 
 
 <img align="right" alt="coding" width="200px" src="https://media.giphy.com/media/LvWmYeN48HkHUMfPkH/giphy.gif?cid=ecf05e47tpo7e3wj5fiq2jllp5o0gzbcqkz34to7o5ttkaes&ep=v1_stickers_search&rid=giphy.gif&ct=s">

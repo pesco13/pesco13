@@ -13,7 +13,7 @@ Keenly interested in computational chemistry, artificial intelligence, and Data 
 
 - 📚 Bibliometrics
 - 💊 Drug design
-- ♻️ Materials degradation and design
+- ♻️ Materials design
 
 <h3 align="left">📲Socials:</h3>
 <p align="left">

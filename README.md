@@ -9,11 +9,11 @@
 Actively developing my skills in programming, algorithms, and data analysis. 
 Keenly interested in computational chemistry, artificial intelligence, and Data Science.
 
-<h3 align="left">🔬Currently working on:</h3>
+<h3 align="left">Currently working on:</h3>
 
-- 📚 Bibliometrics
+- Bibliometrics
 - 💊 Drug design
-- ♻️ Materials design
+- Materials design
 
 <h3 align="left">📲Socials:</h3>
 <p align="left">
